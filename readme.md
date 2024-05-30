@@ -10,7 +10,7 @@ I am a Backend Engineer
 
 - Main Stack: .NET
 - Place of Work: Kaspersky Lab
-- Startup
+- Startups co founder
 
 
 
