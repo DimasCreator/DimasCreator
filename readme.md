@@ -30,4 +30,4 @@ I am a Backend Engineer
 
 ### :fire: Algorithms :
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DimaCreator&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DimaCreator&theme=dark)](https://leetcode.com/u/DimaCreator/)
