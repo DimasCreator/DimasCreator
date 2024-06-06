@@ -10,6 +10,7 @@ I am a Backend Engineer
 
 - Main Stack: .NET
 - Place of Work: Kaspersky Lab
+- Startups co founder
 
 
 
@@ -27,4 +28,6 @@ I am a Backend Engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimasCreator&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### :fire: Algorithms :
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DimaCreator&theme=dark)](https://leetcode.com/u/DimaCreator/)
