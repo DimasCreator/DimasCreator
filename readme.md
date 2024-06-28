@@ -25,8 +25,6 @@ I am a Backend Engineer
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimasCreator&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :fire: Algorithms :
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/DimaCreator)](https://leetcode.com/DimaCreator)
